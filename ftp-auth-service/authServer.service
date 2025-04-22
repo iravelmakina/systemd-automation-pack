@@ -1,0 +1,13 @@
+# A custom authentication server that listens on port 7777, 
+# verifying client IPs and keys to dynamically allow or deny FTP access via `iptables`.
+
+[Unit]
+Description=Simple custom Auth Server for FTP Access Control
+After=network.target vsftpd.service
+
+[Service]
+ExecStart=/usr/bin/socat TCP4-LISTEN:7777,fork,pktinfo,reuseaddr system:/usr/bin/authServer.sh
+Restart=always
+
+[Install] 
+WantedBy=multi-user.target
