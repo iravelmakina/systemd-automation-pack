@@ -1,0 +1,103 @@
+France;Paris;EUR
+Germany;Berlin;EUR
+Spain;Madrid;EUR
+Italy;Rome;EUR
+Portugal;Lisbon;EUR
+Netherlands;Amsterdam;EUR
+Belgium;Brussels;EUR
+Austria;Vienna;EUR
+Sweden;Stockholm;SEK
+Norway;Oslo;NOK
+Denmark;Copenhagen;DKK
+Finland;Helsinki;EUR
+Poland;Warsaw;PLN
+Czech Republic;Prague;CZK
+Slovakia;Bratislava;EUR
+Hungary;Budapest;HUF
+Greece;Athens;EUR
+Turkey;Ankara;TRY
+Switzerland;Bern;CHF
+Luxembourg;Luxembourg;EUR
+Ireland;Dublin;EUR
+Iceland;Reykjavik;ISK
+Bulgaria;Sofia;BGN
+Romania;Bucharest;RON
+Serbia;Belgrade;RSD
+Croatia;Zagreb;HRK
+Slovenia;Ljubljana;EUR
+Bosnia and Herzegovina;Sarajevo;BAM
+North Macedonia;Skopje;MKD
+Albania;Tirana;ALL
+Malta;Valletta;EUR
+Cyprus;Nicosia;EUR
+Lithuania;Vilnius;EUR
+Latvia;Riga;EUR
+Estonia;Tallinn;EUR
+Ukraine;Kyiv;UAH
+Belarus;Minsk;BYN
+Moldova;Chisinau;MDL
+Georgia;Tbilisi;GEL
+Armenia;Yerevan;AMD
+Azerbaijan;Baku;AZN
+Kazakhstan;Nur-Sultan;KZT
+Uzbekistan;Tashkent;UZS
+Kyrgyzstan;Bishkek;KGS
+Tajikistan;Dushanbe;TJS
+Turkmenistan;Ashgabat;TMT
+China;Beijing;CNY
+Japan;Tokyo;JPY
+South Korea;Seoul;KRW
+North Korea;Pyongyang;KPW
+India;New Delhi;INR
+Pakistan;Islamabad;PKR
+Bangladesh;Dhaka;BDT
+Sri Lanka;Colombo;LKR
+Nepal;Kathmandu;NPR
+Bhutan;Thimphu;BTN
+Maldives;Male;MVR
+Afghanistan;Kabul;AFN
+Iran;Tehran;IRR
+Iraq;Baghdad;IQD
+Syria;Damascus;SYP
+Jordan;Amman;JOD
+Israel;Jerusalem;ILS
+Lebanon;Beirut;LBP
+Saudi Arabia;Riyadh;SAR
+Yemen;Sanaa;YER
+Oman;Muscat;OMR
+United Arab Emirates;Abu Dhabi;AED
+Qatar;Doha;QAR
+Bahrain;Manama;BHD
+Kuwait;Kuwait City;KWD
+Egypt;Cairo;EGP
+Sudan;Khartoum;SDG
+Libya;Tripoli;LYD
+Morocco;Rabat;MAD
+Tunisia;Tunis;TND
+Algeria;Algiers;DZD
+Mauritania;Nouakchott;MRU
+Mali;Bamako;XOF
+Niger;Niamey;XOF
+Chad;N'Djamena;XAF
+Senegal;Dakar;XOF
+Guinea;Conakry;GNF
+Ivory Coast;Yamoussoukro;XOF
+Ghana;Accra;GHS
+Nigeria;Abuja;NGN
+Cameroon;Yaounde;XAF
+South Africa;Pretoria;ZAR
+Botswana;Gaborone;BWP
+Namibia;Windhoek;NAD
+Zimbabwe;Harare;ZWL
+Zambia;Lusaka;ZMW
+Mozambique;Maputo;MZN
+Angola;Luanda;AOA
+Congo;Brazzaville;XAF
+Kenya;Nairobi;KES
+Tanzania;Dodoma;TZS
+Uganda;Kampala;UGX
+Rwanda;Kigali;RWF
+Burundi;Bujumbura;BIF
+Ethiopia;Addis Ababa;ETB
+Somalia;Mogadishu;SOS
+Madagascar;Antananarivo;MGA

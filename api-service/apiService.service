@@ -1,0 +1,17 @@
+[[# This service implements a custom API server that communicates 
+# over a TCP socket. It supports a handshake procedure and the following commands:
+# - GetCapitalOfCountry <country>: Retrieves the capital of the specified country.
+# - GetCountriesWithCurrency <currency>: Lists all countries that use the specified currency.
+#
+# Logging of all interactions is inside /var/log/apiServer.log.
+
+[Unit]
+Description=Simple API server for custom TCP protocol
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/socat TCP-LISTEN:4242,reuseaddr,fork EXEC:/usr/bin/apiServer.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
