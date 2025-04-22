@@ -55,4 +55,4 @@ Pull requests are welcome! Feel free to suggest improvements, features, or bug f
 
 ## License
 
-MIT License. See `LICENSE` file for details.
+This project is open-source under the **MIT License**.
