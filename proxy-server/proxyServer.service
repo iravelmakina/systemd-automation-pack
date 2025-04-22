@@ -1,0 +1,13 @@
+# A custom proxy server that listens on port 80, forwarding requests to an Apache server on port 10000 and 
+# returning either index.html or error.html based on client-specific conditions.
+
+[Unit]
+Description=Simple custom Proxy Server
+After=apache2.service
+
+[Service]
+ExecStart=/usr/bin/socat TCP4-LISTEN:80,reuseaddr,fork,pktinfo system:/etc/proxyServer.sh
+Restart=always
+
+[Install] 
+WantedBy=multi-user.target
