@@ -1,0 +1,14 @@
+# This is a primitive service for printing current date arp cache every 2 min
+# Format: Sep 25 10:00 : 
+#          ip1 mac1
+
+[Unit]
+Description=Simple Service to print time and the current state of arp cache every 2 minutes
+After=network.target
+
+[Service]
+ExecStart=/etc/simpleService.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
