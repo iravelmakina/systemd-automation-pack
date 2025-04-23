@@ -44,7 +44,7 @@ Each service includes:
 See each folder for a dedicated `README.md`:
 - [`simple-service`](./simple-service/)
 - [`api-service`](./api-service/)
-- [`proxy-server`](./proxy-server-service/)
+- [`proxy-server-service`](./proxy-server-service/)
 - [`ftp-auth-service`](./ftp-auth-service/)
 
 ---
