@@ -55,4 +55,10 @@ Pull requests are welcome! Feel free to suggest improvements, features, or bug f
 
 ## License
 
-This project is open-source under the **MIT License**.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## Contributor
+
+- [@iravelmakina](https://github.com/iravelmakina)
