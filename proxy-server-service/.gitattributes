@@ -1,0 +1,43 @@
+# --- General text files ---
+* text=auto eol=lf
+
+# --- Shell scripts ---
+*.sh        text eol=lf
+
+# --- Systemd service unit files ---
+*.service   text eol=lf
+
+# --- Web assets ---
+*.html      text
+*.css       text
+*.js        text
+*.json      text
+*.svg       text
+
+# --- Config / Infrastructure ---
+*.yaml      text
+*.yml       text
+*.env       text
+*.conf      text
+*.ini       text
+
+# --- Docs and metadata ---
+*.md        text
+*.txt       text
+
+# --- Static/binary assets ---
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.ico       binary
+*.woff      binary
+*.woff2     binary
+*.ttf       binary
+*.eot       binary
+
+# --- Archives / executables (optional) ---
+*.zip       binary
+*.tar       binary
+*.gz        binary
+*.exe       binary
